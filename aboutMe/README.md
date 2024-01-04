@@ -17,6 +17,7 @@ Coming into college I had zero previous experience with programming, despite bei
 - CSE 121
 - CSE 122
 - Currently taking CSE 123
+- PHYS 122
 - Minimal soldering
 
 
